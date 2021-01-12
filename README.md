@@ -63,4 +63,4 @@ var_dump($records);
 ```
 
 ## Docs
-Documentation page: (PDOx Docs)(https://github.com/tanvir-siddique/pdox/blob/master/DOCS.md)
+Documentation page: https://github.com/tanvir-siddique/pdox/blob/master/DOCS.md
